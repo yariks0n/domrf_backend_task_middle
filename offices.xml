@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<companies>
+  <company>
+    <company-id>1375</company-id>
+    <name lang="ru">До «Воздвиженское»</name>
+    <phone>
+      <type>phone</type>
+      <number>8-800-775-86-86</number>
+    </phone>
+    <address lang="ru">г.Москва улица Воздвиженка дом 10</address>
+  </company>
+  <company>
+    <company-id>1378</company-id>
+    <name lang="ru">До «Мира проспект»</name>
+    <phone>
+      <type>phone</type>
+      <number>8-800-775-86-89</number>
+    </phone>
+    <address lang="ru">г.Воронеж улица проспект Мира дом 12 офис 2</address>
+    <address-add>офис 2</address-add>
+  </company>
+  <company>
+    <company-id>1380</company-id>
+    <name lang="ru">До «Новое Огарево»</name>
+    <phone>
+      <type>phone</type>
+      <number>8-800-775-86-90</number>
+    </phone>
+    <address lang="ru">г.Сочи улица проспект Огарева дом 452</address>
+  </company>
+</companies>
